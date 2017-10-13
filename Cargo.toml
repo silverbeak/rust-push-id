@@ -1,0 +1,16 @@
+[package]
+name = "pushid"
+version = "0.1"
+authors = ["Kristofer Jarl <kristofer.jarl@trollmoj.com>"]
+license = "MIT"
+description = "Generate Firebase-style push-id:s"
+repository = "https://github.com/silverbeak/rust-push-id"
+keywords = ["push-id"]
+
+[dependencies]
+rand = "0.3"
+
+[lib]
+name = "pushid"
+path = "src/lib.rs"
+
