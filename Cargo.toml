@@ -1,6 +1,6 @@
 [package]
 name = "pushid"
-version = "0.1"
+version = "0.0.1"
 authors = ["Kristofer Jarl <kristofer.jarl@trollmoj.com>"]
 license = "MIT"
 description = "Generate Firebase-style push-id:s"
